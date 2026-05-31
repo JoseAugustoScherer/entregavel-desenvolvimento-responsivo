@@ -10,8 +10,7 @@ mediconnect/
 ├── index.html       ← página principal
 ├── css/
 │   └── style.css    ← estilos personalizados
-├── .gitignore
-└── README.md
+└── .gitignore
 ```
 
 ## Como abrir
